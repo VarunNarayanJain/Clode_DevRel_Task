@@ -12,3 +12,5 @@ The goal of this work is to understand the cloud automation and platform enginee
 - `summary/` – High-level findings and positioning recommendations
 
 All analysis is based on publicly available information.
+
+Note: All analysis and messaging are based on publicly available information and reflect product positioning at the time of writing.
